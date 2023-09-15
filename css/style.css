@@ -61,7 +61,8 @@
 /* 1. TEMPLATE BACKGROUNDS */
 /* 1.1. single IMG BACKGROUND */
 .bg-img-SINGLE {
-  background-image: url(../new/back.png);
+  background-image: url(../new/back.svg);
+  background-size: contain;
 
 }
 
